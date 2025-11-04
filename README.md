@@ -24,5 +24,5 @@ python flash_dual.py
 エラーが出る場合
 flash_dual.pyの"adapter:speed:"を10000ぐらいに下げてみる  
 
-## 著作権
+## License
 MITライセンス
